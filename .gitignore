@@ -1,0 +1,43 @@
+# Visual Studio build artifacts and temporary files
+.vs/
+*.user
+*.userosv
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+
+# Build output directories
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Intermediate and debug files
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.ipch
+*.iobj
+*.ipdb
+*.idb
+*.exp
+*.lib.recipe
+*.Build.CppClean.log
+
+# Backup and temporary archives
+*.zip
+*.7z
+*.rar
+*.bak
+*.orig
